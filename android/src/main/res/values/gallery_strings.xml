@@ -1,0 +1,24 @@
+<resources>
+    <string name="gallery_loading_view_click_loading_more">Load More</string>
+    <string name="gallery_loading_view_no_more">Loading</string>
+    <string name="gallery_loading_view_loading">Loading</string>
+
+    <string name="gallery_over_button_text">Complete</string>
+    <string name="gallery_over_button_text_checked">Complete(%1$d/%2$d)</string>
+    <string name="gallery_image_max_size_tip">Max Size%1$dTip</string>
+    <string name="gallery_page_title">%1$d/%2$d</string>
+    <string name="gallery_media_grid_image_title">Photo</string>
+    <string name="gallery_media_grid_video_title">Video</string>
+    <string name="gallery_default_request_storage_access_permission_tips">App Request Storage Access Permission</string>
+    <string name="gallery_default_camera_access_permission_tips">App Request Camera Access Permission</string>
+    <string name="gallery_default_request_storage_write_permission_tips">App Request Storage Write Permission</string>
+    <string name="gallery_default_media_empty_tips">Empty</string>
+    <string name="gallery_device_no_camera_tips">Device No Camera</string>
+    <string name="gallery_device_camera_unable">Unable Load Camera</string>
+    <string name="gallery_preview_title">Preview</string>
+    <string name="gallery_edit_phote">Edit Photo</string>
+    <string name="gallery_all_image">All Photo</string>
+    <string name="gallery_all_video">All Video</string>
+    <string name="gallery_take_image">Take Image</string>
+    <string name="gallery_video">Video</string>
+</resources>
