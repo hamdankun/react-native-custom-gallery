@@ -173,6 +173,8 @@ public class MediaActivity extends BaseActivity implements ActivityFragmentView 
         Drawable dividerDrawable = ThemeUtils.resolveDrawable(this, R.attr.gallery_toolbar_divider_bg, R.color.gallery_default_toolbar_divider_bg);
         OsCompat.setBackgroundDrawableCompat(mToolbarDivider, dividerDrawable);
 
+        mToolbar.setNavigationIcon(R.drawable.ic_chevron_left_black_24dp);
+
         setSupportActionBar(mToolbar);
     }
 
